@@ -54,6 +54,7 @@ export const watchlist = [
     isDown: false,
   },
 ];
+export const BASE_URL="https://zerodha-backend-oloi.onrender.com"
 
 // holdings
 export const holdings = [
